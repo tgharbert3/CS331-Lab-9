@@ -1,0 +1,19 @@
+Transportation: 
+
+Land Transportation:
+	Train
+	Automobile
+	Bus
+	Bike
+
+Air Transportation:
+	Helicopter
+	Dirigible
+	Hot air balloon
+	Plane
+
+Water Transportation:
+	Boat
+	Ship
+	Submarine
+
