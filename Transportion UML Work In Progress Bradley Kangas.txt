@@ -1,0 +1,19 @@
+Transportation
+- transportationType : String
+- transportationCost : float
+- ticketOrRental : bool
+- averageSpeed : float
+- passengersAllowed : int
+
+
+<<constructor>> Boat(transportationType : String, transportationCost : float, ticketOrRental : int, averageSpeed : float, passengerCount : int)
++ getType() : String
++ getCost() : float
++ getTicketOrRental() : int
++ getSpeed() : float
++ getNumberPassengers() : int
++ setType(transportationType : String)
++ setCost(transportationCost : float)
++ setTicketOrRental(ticketOrRental : int)
++ setSpeed(averageSpeed : float)
++ setNumberPassengers(passengerCount : int)
